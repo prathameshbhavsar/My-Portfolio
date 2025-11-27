@@ -1,7 +1,7 @@
 # Prathamesh Bhavsar — Product & Consulting Portfolio
 
 ## 👋 About Me  
-I’m a Product & Business Consultant with strong experience in Product roadmap, Sprint Ceremonies, Backlog Prioritisation, SAP systems, API products, data-driven decision-making, and cross-functional delivery. I specialise in transforming complex requirements into scalable solutions, improving operational efficiency and driving continuous improvement across digital products.
+I’m a Product & Business Consultant with strong experience in Product Roadmap, Sprint Ceremonies, Backlog Prioritisation, SAP systems, API products, data-driven decision-making, and cross-functional delivery. I specialise in transforming complex requirements into scalable solutions, improving operational efficiency and driving continuous improvement across digital products.
 
 ## 🚀 Featured Case Studies
 
